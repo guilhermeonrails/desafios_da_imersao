@@ -1,5 +1,11 @@
 # Desafios da imersão Dev 6 edição
 
+- [Desafio 1](#desafio1)
+- [Desafio 2](#desafio2)
+- [Desafio 3](#desafio3)
+- [Desafio 4](#desafio4)
+
+<a id="desafio1"></a>
 ## Aula 1 -> Conversor de quilômetros para anos luz e verificar o tempo que demora para ir de uma estrela para outra
 
 Para resolver esse desafio, usarei 2 estrelas:
@@ -22,7 +28,9 @@ alert(`A distância de Sigma Octantis até Alpha Centauri é de ${distanciaEmQui
 ```
 
 (No entanto, lembre-se de que o tempo de viagem para uma estrela não pode ser calculado apenas pela distância. A velocidade da nave, a massa da estrela e outros fatores precisam ser considerados para calcular o tempo de viagem.)
-____________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
+
+<a id="desafio2"></a>
 ## Aula 2 -> Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final
 
 Para controlar as tentativas, criarei uma variável de controle de tentativas chamada `tentativasRestantes` e farei a comparação apenas com `==`, sem levar em conta seu tipo.
@@ -50,8 +58,9 @@ if (tentativasRestantes === 0) {
   alert(`Você perdeu. O número correto era ${numeroAleatorio}.`);
 }
 ```
-____________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
+<a id="desafio3"></a>
 ## Aula 3 -> Implementar outras versões da estrutura de repetição que fizemos com for, como por exemplo com foreach ou while para exibir a lista de filmes na tela
 
 Para este desafio, vou mostrar o código feito com for, foreach e while.
@@ -115,8 +124,9 @@ document.write("<img src=" + listaFilmes[i] + ">");
 i++;
 }
 ```
-____________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
+<a id="desafio4"></a>
 ## Aula 4 -> Criar um botão para remover um filme na tela;
 
 Para este desafio, vou compartilhar o código HTML, CSS e JavaScript.
