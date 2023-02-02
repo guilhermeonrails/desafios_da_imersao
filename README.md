@@ -1,5 +1,7 @@
 # Desafios da imersão Dev 6 edição
 
+Fala pessoal, [Gui Lima](https://www.instagram.com/guilhermelimadev/) e quero ajudar nos desafios da imersão dev. Não existe apenas uma forma de realizar os desafios e ficaria bem feliz de ver formas diferentes de resolver. Boa imersão e tmj pessoal!
+
 - [Desafio 1](#desafio1)
 - [Desafio 2](#desafio2)
 - [Desafio 3](#desafio3)
