@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    background: url(https://c.pxhere.com/images/7b/66/f1150f5281b3366623cdb71544da-1446825.jpg!d) no-repeat;
+    background-size: cover;
+    
+}
+
+.container {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.container h1 {
+    font-size: 5rem;
+}
