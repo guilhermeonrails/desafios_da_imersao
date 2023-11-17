@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    margin: auto;
+}
+
+#fundo_moeda {
+    background:url(pexels-pixabay-106152.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#fundo_temperatura {
+    background:url(pen-instrument-scale-healthy-bless-you-thermometer-1129791-pxhere.com.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#fundo_anos_luz {
+    background:url(galaxy-astronomical-object-astronomy-outer-space-atmosphere-star-1366710-pxhere.com.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container {
+     text-align: center;
+     padding: 1rem;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.page-title {
+    color: rgb(45, 204, 5);
+    text-shadow: 1px 2px 2px black;
+}
